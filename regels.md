@@ -1,6 +1,6 @@
 # regels
 
-1. dood is dood en je verleist een beetje van je loot
+1. dood is dood en je verliest een beetje van je loot
 2. 
 3. 
 4. 
