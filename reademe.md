@@ -34,4 +34,4 @@ Ontdek de recente heldendaden van de spelers:
 
 **Sluit je aan bij Tales of Adventure en begin je tekstgebaseerde reis!**
 
-[Start Nu](#) | [Lees de Spelregels](regels.md) | [Contacteer de Gamemaster](contact.md)
+[Start Nu](#) | [Lees de Spelregels](regels.md)
