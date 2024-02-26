@@ -22,7 +22,7 @@ Bereid je voor op de volgende reeks avonturen:
 - 🏹 **Boogschuttersproef:** Test je vaardigheden in een boogschutterswedstrijd en win prijzen.
 - 🧙 **Het mysterie van de Verdwenen Scepter:** Onderzoek een oud kasteel waarin een krachtige tovenaar zijn scepter heeft verloren.
 - 🧙 **verzamel:** verzamel legendariese items om ze te verkopen of te gebruiken in andere quests.
-- 🧙 **vriends:** maak vrienden om sterker te worden als een team.
+- 🧙 **Friends:** maak vrienden om sterker te worden als een team.
 - 🧙 **demon king:** ver sla de demon king en zijn army.
 
 ## Laatste Avonturen

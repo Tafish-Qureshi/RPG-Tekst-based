@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Gebruiker\\Documents\\bit-academy\\samen werkingen github\\RPG-Tekst-based\\textbased.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "C:\\Users\\Darks\\Desktop\\RPG-Tekst-based\\textbased.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Darks\\Desktop\\RPG-Tekst-based\\textbased.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darks\\Desktop\\RPG-Tekst-based\\textbased.csproj",
+        "projectName": "textbased",
+        "projectPath": "C:\\Users\\Darks\\Desktop\\RPG-Tekst-based\\textbased.csproj",
+        "packagesPath": "C:\\Users\\Darks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darks\\Desktop\\RPG-Tekst-based\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darks\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> main
         ],
         "originalTargetFrameworks": [
           "net7.0"

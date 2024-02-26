@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Gebruiker\Documents\bit-academy\samen werkingen github\RPG-Tekst-based\textbased\obj\Debug\net7.0\textbased.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Gebruiker\Documents\bit-academy\samen werkingen github\RPG-Tekst-based\textbased\obj\Debug\net7.0\textbased.AssemblyInfoInputs.cache
 C:\Users\Gebruiker\Documents\bit-academy\samen werkingen github\RPG-Tekst-based\textbased\obj\Debug\net7.0\textbased.AssemblyInfo.cs
@@ -16,3 +17,19 @@ C:\Users\Gebruiker\Documents\bit-academy\samen werkingen github\RPG-Tekst-based\
 C:\Users\Gebruiker\Documents\bit-academy\samen werkingen github\RPG-Tekst-based\obj\Debug\net7.0\textbased.pdb
 C:\Users\Gebruiker\Documents\bit-academy\samen werkingen github\RPG-Tekst-based\obj\Debug\net7.0\textbased.genruntimeconfig.cache
 C:\Users\Gebruiker\Documents\bit-academy\samen werkingen github\RPG-Tekst-based\obj\Debug\net7.0\ref\textbased.dll
+=======
+C:\Users\Darks\Desktop\RPG-Tekst-based\obj\Debug\net7.0\textbased.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darks\Desktop\RPG-Tekst-based\obj\Debug\net7.0\textbased.AssemblyInfoInputs.cache
+C:\Users\Darks\Desktop\RPG-Tekst-based\obj\Debug\net7.0\textbased.AssemblyInfo.cs
+C:\Users\Darks\Desktop\RPG-Tekst-based\obj\Debug\net7.0\textbased.csproj.CoreCompileInputs.cache
+C:\Users\Darks\Desktop\RPG-Tekst-based\bin\Debug\net7.0\textbased.exe
+C:\Users\Darks\Desktop\RPG-Tekst-based\bin\Debug\net7.0\textbased.deps.json
+C:\Users\Darks\Desktop\RPG-Tekst-based\bin\Debug\net7.0\textbased.runtimeconfig.json
+C:\Users\Darks\Desktop\RPG-Tekst-based\bin\Debug\net7.0\textbased.dll
+C:\Users\Darks\Desktop\RPG-Tekst-based\bin\Debug\net7.0\textbased.pdb
+C:\Users\Darks\Desktop\RPG-Tekst-based\obj\Debug\net7.0\textbased.dll
+C:\Users\Darks\Desktop\RPG-Tekst-based\obj\Debug\net7.0\refint\textbased.dll
+C:\Users\Darks\Desktop\RPG-Tekst-based\obj\Debug\net7.0\textbased.pdb
+C:\Users\Darks\Desktop\RPG-Tekst-based\obj\Debug\net7.0\textbased.genruntimeconfig.cache
+C:\Users\Darks\Desktop\RPG-Tekst-based\obj\Debug\net7.0\ref\textbased.dll
+>>>>>>> main
