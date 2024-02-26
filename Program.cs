@@ -18,9 +18,8 @@ namespace textbased {
             if (curentPlayer.name == "") {
                 Console.WriteLine("Je moet een naam invoeren!");
                 start();
-                
             } else if (curentPlayer.name != ""){
-                Console.WriteLine("Welcome" + curentPlayer.name + "!" );
+                Console.WriteLine("Welcome " + curentPlayer.name + " !" );
                 Console.WriteLine("Je wordt wakker in een klein dorpje omringd door weelderige groene velden. Als je om je heen kijkt, zie je een mysterieuze oude man vlakbij staan.");
                 Console.WriteLine("De oude man komt naar je toe en zegt: 'Gegroet, jonge avonturier! Ik heb een zoektocht voor je. Ben je klaar om aan een groots avontuur te beginnen?'");
                 Console.WriteLine("Je knikt gretig, klaar om aan je reis te beginnen. De oude man overhandigt je een kaart en wijst naar een verre bergketen.");
