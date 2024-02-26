@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "eYiu7CftYqz/Tsz6Dunk/8P9AFhgrwaYp8/StxjBuYBsm+T71rt8ieuSmmU7PHKBjB1Jkrl52xf4TibIft1XYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gebruiker\\Documents\\bit-academy\\samen werkingen github\\RPG-Tekst-based\\textbased.csproj",
-=======
-  "dgSpecHash": "XVvpjceJFBpF/6s/QIPm9sGa369xTiq9xPIRFsU0YF277SeXxL/wFv8HtHza99MV8LU0B9klhlQ5ps8SFN/LZA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Darks\\Desktop\\RPG-Tekst-based\\textbased.csproj",
->>>>>>> main
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Gebruiker\\Documents\\bit-academy\\samen werkingen github\\RPG-Tekst-based\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
