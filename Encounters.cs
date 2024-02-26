@@ -11,7 +11,7 @@ namespace textbased {
             Console.WriteLine("Je Gooit de deur open en je ziet dat de mannen een kist aan het stelen zijn.");
             Console.WriteLine("Je besluit om ze te verrassen en je valt ze aan.");
             Console.ReadKey();
-            Combat(false, "Dieven", 4, 4);
+            Combat(false, "Dieven", 4, 16);
             Console.WriteLine("Je hebt de dieven verslagen en je hebt de kist teruggekregen.");
             Console.WriteLine("Je opent de kist en je vindt 10 gouden munten.");
             int amountOfItems = rand.Next(1, 3);
@@ -46,7 +46,10 @@ namespace textbased {
                 p = power;
                 h = health;
             }
-            while(h > 0) {
+            while(h > 0){
+                Console.Clear();
+                Console.WriteLine(n);
+                Console.WriteLine(p +"/"+ h);
                 Console.WriteLine("*********************");
                 Console.WriteLine("| (A)anval  (V)erdedigd |");
                 Console.WriteLine("| (R)en     (H)eel| ");
